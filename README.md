@@ -1,2 +1,8 @@
-# odin-recipes
-This project is built as part of my learning journey of web development through The Odin Project.
+# Odin-Recipes
+
+Project: Recipe
+What I learned: 
+1. Add heading, paragraph, image, lists, link elements in HTML.
+2. Push project to GitHub.
+
+[The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
