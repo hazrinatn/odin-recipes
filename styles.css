@@ -1,0 +1,20 @@
+h1 {
+    background-color: cornsilk;
+    color:darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    background-color:lightcoral;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    text-align: justify;
+}
+
